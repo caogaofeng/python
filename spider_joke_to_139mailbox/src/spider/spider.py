@@ -8,9 +8,9 @@ sys.setdefaultencoding('utf-8')  # 避免中午编码问题
 
 
 mail_host = "smtp.139.com"            # 设置服务器
-mail_user = "15074856331@139.com"     # 用户名
-mail_pass = "gaofeng0215"             # 密码()
-mailto_list = ['15116104927@139.com'] # 邮件接收者
+mail_user = " "     # 用户名
+mail_pass = " "             # 密码()
+mailto_list = [' '] # 邮件接收者
 
 def send_mail(to_list, part1, sub, content):
     # to_list: 收件人； sub: 主题； content： 邮件内容
