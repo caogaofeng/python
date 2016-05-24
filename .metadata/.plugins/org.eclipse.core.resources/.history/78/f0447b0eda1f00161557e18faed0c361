@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/Ball_tree/Ball_tree.py=utf-8
+encoding//src/Finding_Nearest_Neighbors/Finding_Nearest_Neighbors.py=utf-8
+encoding//src/KD_tree/KD_tree.py=utf-8
+encoding//src/KNN_classification/KNN_classification.py=utf-8
+encoding//src/KNN_classification/KNN_score.py=utf-8
+encoding//src/Nearest_Neighbors_Regression/Nearest_Neighbors_Regression.py=utf-8

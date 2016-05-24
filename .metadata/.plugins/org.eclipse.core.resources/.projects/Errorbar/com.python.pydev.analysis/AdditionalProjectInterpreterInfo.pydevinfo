@@ -1,0 +1,30 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Errorbar\com.python.pydev.analysis\v2_indexcache
+Errorbar|1463973971363269000|E:\pythonworkspace\Errorbar\src\Errorbar.py
+Errorbar_of_chart|1463974318606130000|E:\pythonworkspace\Errorbar\src\Errorbar_of_chart.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=Errorbar
+2=Errorbar_of_chart
+-- END DICTIONARY
+-- START TREE 1
+13
+X|1|X!11@
+alp|1|alpha!11@
+bar|1|bar_labels!19@
+con|1|conf_interval!11@
+dof|1|dof!11@
+fig|2|fig!11@fig!19@
+max|1|max_y!19@
+mea|1|mean_values!19@
+n|1|n!11@
+var|1|variance!19@
+x_m|1|X_mean!11@
+x_p|1|x_pos!19@
+x_s|2|X_std!11@X_se!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

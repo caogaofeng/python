@@ -1,0 +1,70 @@
+# -*- coding: utf-8 -*-  
+import numpy as np  
+from sklearn import neighbors, datasets   
+from sklearn.metrics import classification_report  
+from sklearn.cross_validation import train_test_split  
+import matplotlib.pyplot as plt 
+from matplotlib.colors import ListedColormap
+  
+''''' 数据读入 '''  
+n_neighbors = 15
+
+# import some data to play with
+iris = datasets.load_iris()
+X = iris.data[:, :2] # we only take the first two features. We could
+                     # avoid this ugly slicing by using a two-dim dataset
+y = iris.target
+  
+    
+
+''''' 拆分训练数据与测试数据 '''  
+x_train, x_test, y_train, y_test = train_test_split(X, y, test_size = 0.2)  
+  
+''''' 创建网格以方便绘制 '''  
+h = .02  
+cmap_light = ListedColormap(['#FFAAAA', '#AAFFAA', '#AAAAFF'])
+cmap_bold = ListedColormap(['#FF0000', '#00FF00', '#0000FF'])
+# we create an instance of Neighbours Classifier and fit the data.
+''''' 训练KNN分类器 '''  
+clf = neighbors.RadiusNeighborsClassifier(radius= 1.0, n_neighbors=n_neighbors, weights='distance')
+clf.fit(x_train, y_train) 
+
+# Plot the decision boundary. For that, we will assign a color to each
+# point in the mesh [x_min, m_max]x[y_min, y_max].
+x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
+y_min, y_max = X[:, 1].min() - 1, X[:, 1].max() + 1
+xx, yy = np.meshgrid(np.arange(x_min, x_max, h),
+                         np.arange(y_min, y_max, h))  
+  
+ 
+'''''测试结果的打印'''  
+answer = clf.predict(X)  
+# print ('X :', X)  
+print ('answer :', answer.shape)  
+print ('y :', y.shape)  
+print ('avg:', np.mean( answer == y))  
+  
+'''''准确率与召回率''' 
+# precision_recall_curve 二分类问题中使用 
+# precision, recall, thresholds = precision_recall_curve(y_train, clf.predict(x_train))  
+# answer = clf.predict_proba(X)[:,1] 
+
+print(classification_report(y, answer, target_names = ['0', '1', '2']))  
+ 
+''''' 将整个测试空间的分类结果用不同颜色区分开'''
+print xx.ravel()  
+print np.c_[xx.ravel(), yy.ravel()]
+# m = raw_input() 
+Z = clf.predict(np.c_[xx.ravel(), yy.ravel()])
+
+# Put the result into a color plot
+Z = Z.reshape(xx.shape)
+plt.figure()
+plt.pcolormesh(xx, yy, Z, cmap=cmap_light)
+
+# Plot also the training points
+plt.scatter(X[:, 0], X[:, 1], c=y, cmap=cmap_bold)
+plt.xlim(xx.min(), xx.max())
+plt.ylim(yy.min(), yy.max())
+plt.title("3-Class classification 'distence'"  )  
+plt.show()

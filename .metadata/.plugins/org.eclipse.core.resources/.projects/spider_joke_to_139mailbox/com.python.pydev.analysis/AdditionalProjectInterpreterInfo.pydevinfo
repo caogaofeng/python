@@ -1,0 +1,28 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\spider_joke_to_139mailbox\com.python.pydev.analysis\v2_indexcache
+spider.spider|1461160475012594000|E:\pythonworkspace\spider_joke_to_139mailbox\src\spider\spider.py
+spider.__init__|1461074392322357000|E:\pythonworkspace\spider_joke_to_139mailbox\src\spider\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=spider.spider
+-- END DICTIONARY
+-- START TREE 1
+12
+api|1|apikey!11@
+con|2|content_list!11@content!11@
+fir|2|first_title!11@first_text!11@
+jso|1|json_result!11@
+len|1|length!11@
+mai|4|mailto_list!11@mail_pass!11@mail_host!11@mail_user!11@
+min|1|minlen!11@
+par|3|part2!11@part1!11@part3!11@
+req|1|req!11@
+res|1|resp!11@
+sen|1|send_mail!10@
+url|1|url!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

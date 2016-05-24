@@ -1,0 +1,2 @@
+
+X = np.random.rand(40, 1)

@@ -1,0 +1,39 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\baidu_picture_API\com.python.pydev.analysis\v2_indexcache
+picture_goddesses|1461202172570256000|E:\pythonworkspace\baidu_picture_API\src\picture_goddesses.py
+spider_one|1461203270791070000|E:\pythonworkspace\baidu_picture_API\src\spider_one.py
+pictureAPI|1461160307187995000|E:\pythonworkspace\baidu_picture_API\src\pictureAPI.py
+picture_tngou|1461200172648867000|E:\pythonworkspace\baidu_picture_API\src\picture_tngou.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=picture_goddesses
+3=spider_one
+1=pictureAPI
+4=picture_tngou
+-- END DICTIONARY
+-- START TREE 1
+18
+api|2|apikey!11@apikey!19@
+con|4|content_dict!19@content!11@content!19@contents!19@
+dat|1|dataList!27@
+end|1|end!27@
+get|3|get_url!26@get_urls!26@get_data!26@
+hea|2|headers!11@headers!19@
+jso|1|jsonData!27@
+par|2|params!19@params!11@
+poo|1|pool!27@
+r|3|r!11@r!35@r!19@
+req|2|req!11@req!19@
+res|2|resp!19@resp!11@
+roo|1|root_url!27@
+run|3|run!18@run!34@run!10@
+sav|3|saveImage!10@saveImage!34@saveImage!18@
+src|1|src_header!35@
+sta|1|start!27@
+url|6|urls!27@url_2!35@url!19@url_1!19@url_1!35@url!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

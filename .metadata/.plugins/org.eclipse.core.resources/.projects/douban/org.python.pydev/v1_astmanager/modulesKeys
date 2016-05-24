@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+ContectSQL.connectSQLServer|E:\pythonworkspace\douban\src\ContectSQL\connectSQLServer.py
+com.demo|E:\pythonworkspace\douban\src\com\demo.py
+com.douban|E:\pythonworkspace\douban\src\com\douban.py
+com.sql|E:\pythonworkspace\douban\src\com\sql.py
+cookieLogin.login|E:\pythonworkspace\douban\src\cookieLogin\login.py
+doubanpingfeng.comments|E:\pythonworkspace\douban\src\doubanpingfeng\comments.py
+doubanpingfeng.sql|E:\pythonworkspace\douban\src\doubanpingfeng\sql.py
+qiushibaike.qiushi|E:\pythonworkspace\douban\src\qiushibaike\qiushi.py
+taobao.spidertaobaoMM|E:\pythonworkspace\douban\src\taobao\spidertaobaoMM.py
+taobao.tool|E:\pythonworkspace\douban\src\taobao\tool.py

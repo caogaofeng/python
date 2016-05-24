@@ -1,0 +1,17 @@
+INSTUPContectSQL.connectSQLServer
+E:\pythonworkspace\douban\src\ContectSQL\connectSQLServer.py
+INFOS:&&1|1|2|0&&2|3|2|1&&3|4|2|5&&3|6|2|5&&3|7|2|5&&3|8|2|5&&2|9|2|1&&3|10|2|11&&2|12|2|1&&2|13|2|1&&2|14|2|0
+conn=10
+ExecQuery=12
+__GetConnect=9
+main=14
+MSSQL=1
+ContectSQL.connectSQLServer=2
+MSSQL.__GetConnect=11
+host=4
+ExecNonQuery=13
+__init__=3
+pwd=7
+MSSQL.__init__=5
+user=6
+db=8

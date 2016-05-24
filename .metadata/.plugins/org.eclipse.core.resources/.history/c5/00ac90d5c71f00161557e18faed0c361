@@ -1,0 +1,2 @@
+import numpy as np
+X = np.random.rand(40, 1)

@@ -1,0 +1,45 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\testdouban1\com.python.pydev.analysis\v2_indexcache
+app|1442537395581000000|E:\pythonworkspace\testdouban1\src\app.py
+comments|1442648269478464000|E:\pythonworkspace\testdouban1\src\comments.py
+sql|1442537408925000000|E:\pythonworkspace\testdouban1\src\sql.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=app
+1=comments
+5=MSSQL.__GetConnect
+4=MSSQL
+6=MSSQL.__init__
+3=sql
+-- END DICTIONARY
+-- START TREE 1
+15
+con|4|content!11@content!19@content1!19@content1!11@
+f|2|f!11@f!19@
+has|2|hash!11@hash!19@
+ins|2|insertSql!11@insertSql!19@
+j|1|j!19@
+lis|7|list_acc!11@list_name!19@list_href!19@list_class_name!19@list_href!11@list_class_id!19@list_name!11@
+mai|1|main!26@
+mat|9|match_id!19@match_class!19@match_people!11@match_id!11@match_comm!11@match_name!19@match_scol!19@match_intro!19@match_name!11@
+ms|2|ms!11@ms!19@
+mss|1|MSSQL!25@
+str|2|string!19@string!11@
+tem|1|temp!11@
+typ|4|type_id!19@type!11@type!19@type_id!11@
+url|2|url!11@url!19@
+zip|1|zipc!19@
+-- END TREE
+-- START TREE 2
+8
+__g|1|__GetConnect!4&26@
+__i|1|__init__!4&26@
+con|1|conn!5&27@
+db|1|db!6&27@
+exe|2|ExecNonQuery!4&26@ExecQuery!4&26@
+hos|1|host!6&27@
+pwd|1|pwd!6&27@
+use|1|user!6&27@
+-- END TREE

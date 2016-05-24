@@ -1,0 +1,34 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\study_numpy\com.python.pydev.analysis\v2_indexcache
+GeneratingArray|1461296430749635000|E:\pythonworkspace\study_numpy\src\GeneratingArray.py
+numpy_3|1461508829350249000|E:\pythonworkspace\study_numpy\src\numpy_3.py
+numpy_2|1461307824553277000|E:\pythonworkspace\study_numpy\src\numpy_2.py
+numpy_rand|1463886131951617000|E:\pythonworkspace\study_numpy\src\numpy_rand.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=GeneratingArray
+1=numpy_3
+4=numpy_2
+3=numpy_rand
+-- END DICTIONARY
+-- START TREE 1
+13
+A|1|A!11@
+B|1|B!11@
+C|1|C!11@
+F|1|F!11@
+M|1|M!19@
+X|1|X!27@
+cho|1|choices!19@
+dat|3|dataout!35@data!35@datain!35@
+n|1|n!19@
+v|1|v!19@
+v1|1|v1!19@
+whi|1|which!19@
+x|1|x!35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

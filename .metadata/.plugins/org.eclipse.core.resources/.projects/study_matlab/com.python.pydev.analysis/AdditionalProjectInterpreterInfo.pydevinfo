@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\study_matlab\com.python.pydev.analysis\v2_indexcache
+matlab|1461720813124853000|E:\pythonworkspace\study_matlab\src\matlab.py
+exp.__init__|1462759003017591000|E:\pythonworkspace\study_matlab\src\exp\__init__.py
+exp.exp|1462760955042240000|E:\pythonworkspace\study_matlab\src\exp\exp.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=matlab
+2=exp.exp
+-- END DICTIONARY
+-- START TREE 1
+2
+x|2|x!11@x!19@
+y|2|y!19@y!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

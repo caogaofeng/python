@@ -1,0 +1,23 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\study_scipy\com.python.pydev.analysis\v2_indexcache
+first.__init__|1461548971165845000|E:\pythonworkspace\study_scipy\src\first\__init__.py
+first.first|1461554174490260000|E:\pythonworkspace\study_scipy\src\first\first.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=first.first
+-- END DICTIONARY
+-- START TREE 1
+7
+A|1|A!11@
+b|1|b!11@
+f|1|f!10@
+val|1|val!11@
+x|1|x!11@
+x_m|1|x_min!11@
+y|1|y!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

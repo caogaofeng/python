@@ -1,0 +1,51 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\study_python\com.python.pydev.analysis\v2_indexcache
+basic_knowledge|1463984346356912000|E:\pythonworkspace\study_python\src\basic_knowledge.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=basic_knowledge
+-- END DICTIONARY
+-- START TREE 1
+36
+bar|1|bart!11@
+cal|1|calc!10@
+cou|1|count!11@
+cub|4|cubes_and_squares!11@cubes_add_squares!11@cubes!11@cubes_of_even!11@
+dig|1|digits!11@
+emp|3|empty_list!11@empty_set!11@empty_dict!11@
+fam|1|family!11@
+fru|3|fruit_indices!11@fruit_lengths!11@fruits!11@
+ite|1|items!11@
+lan|1|languages!11@
+las|1|last_letter!10@
+lis|1|list_of_tuples!11@
+mat|1|matrix!11@
+min|2|min_max_num!11@min_max!10@
+n|1|n!11@
+nei|1|neighbors!11@
+new|1|new_num!11@
+num|2|nums!11@num!11@
+pri|2|print_this!10@print_text!10@
+s|1|s!11@
+s2|1|s2!11@
+s3|1|s3!11@
+s4|1|s4!11@
+s5|1|s5!11@
+sam|1|same_num!11@
+sim|1|simpsons!11@
+sna|1|snakes!11@
+squ|3|square_this!10@squared!10@squared!11@
+sto|1|stooges!11@
+stu|1|stub!10@
+ten|1|tens!11@
+uni|1|unique_lengths!11@
+var|1|var!11@
+wee|1|weekdays!11@
+x|1|x!11@
+zer|1|zero!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

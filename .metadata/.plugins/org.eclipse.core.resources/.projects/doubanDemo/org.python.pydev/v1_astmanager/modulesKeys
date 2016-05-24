@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+Analoglogin|E:\pythonworkspace\doubanDemo\src\Analoglogin.py
+IOS|E:\pythonworkspace\doubanDemo\src\IOS.py
+app|E:\pythonworkspace\doubanDemo\src\app.py
+comments|E:\pythonworkspace\doubanDemo\src\comments.py
+login|E:\pythonworkspace\doubanDemo\src\login.py
+login_noS|E:\pythonworkspace\doubanDemo\src\login_noS.py
+login_page|E:\pythonworkspace\doubanDemo\src\login_page.py
+login_page_noS|E:\pythonworkspace\doubanDemo\src\login_page_noS.py
+login_page_test|E:\pythonworkspace\doubanDemo\src\login_page_test.py
+sql|E:\pythonworkspace\doubanDemo\src\sql.py

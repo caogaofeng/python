@@ -1,0 +1,5 @@
+import numpy as np
+
+np.random.seed(0)
+X = np.sort(5 * np.random.rand(40, 3), axis=1)
+print X

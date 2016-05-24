@@ -1,0 +1,27 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Support_Vector_Machines\com.python.pydev.analysis\v2_indexcache
+svm_classifiter|1463892829799712000|E:\pythonworkspace\Support_Vector_Machines\src\svm_classifiter.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=svm_classifiter
+-- END DICTIONARY
+-- START TREE 1
+12
+C|1|C!11@
+X|1|X!11@
+Z|1|Z!11@
+ans|1|answer!11@
+h|1|h!11@
+iri|1|iris!11@
+lin|1|lin_svc!11@
+pol|1|poly_svc!11@
+rbf|1|rbf_svc!11@
+svc|1|svc!11@
+tit|1|titles!11@
+y|1|y!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

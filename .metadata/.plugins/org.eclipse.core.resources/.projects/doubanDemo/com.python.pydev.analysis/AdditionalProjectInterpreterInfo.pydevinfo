@@ -1,0 +1,80 @@
+-- VERSION_4
+-- START DISKCACHE_2
+E:\pythonworkspace\.metadata\.plugins\org.eclipse.core.resources\.projects\doubanDemo\com.python.pydev.analysis\v2_indexcache
+Analoglogin|1442545955576000000|E:\pythonworkspace\doubanDemo\src\Analoglogin.py
+app|1443178398786000000|E:\pythonworkspace\doubanDemo\src\app.py
+login_page_noS|1443437941455000000|E:\pythonworkspace\doubanDemo\src\login_page_noS.py
+comments|1443599222269000000|E:\pythonworkspace\doubanDemo\src\comments.py
+login_noS|1443440006284000000|E:\pythonworkspace\doubanDemo\src\login_noS.py
+login_page|1443321625562000000|E:\pythonworkspace\doubanDemo\src\login_page.py
+login_page_test|1443236913297000000|E:\pythonworkspace\doubanDemo\src\login_page_test.py
+IOS|1443181627820000000|E:\pythonworkspace\doubanDemo\src\IOS.py
+login|1443329247017000000|E:\pythonworkspace\doubanDemo\src\login.py
+sql|1442540573328000000|E:\pythonworkspace\doubanDemo\src\sql.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+6=app
+9=login_page_noS
+5=comments
+1=login_page_test
+2=login
+4=IOS
+11=MSSQL
+10=sql
+7=Analoglogin
+3=login_noS
+8=login_page
+12=MSSQL.__GetConnect
+13=MSSQL.__init__
+-- END DICTIONARY
+-- START TREE 1
+35
+cla|1|Class_URL!11@
+com|9|comment_time!19@commenter!19@commenter!27@commenter_name!27@comments!27@commenter_id!27@comment_time!27@commenter_id!19@commenter_name!19@
+con|10|content!27@content1!27@content1!35@content!43@content!35@content!51@content1!51@content1!43@content!19@content1!19@
+coo|1|cookie!59@
+f|5|f!43@f!35@f!19@f!51@f!27@
+fil|1|filename!59@
+fir|2|first_url!27@first_url!19@
+gra|1|gradeUrl!59@
+has|3|hash!35@hash!43@hash!51@
+img|1|Img_URL!11@
+ins|5|insertSql!27@insertSql!35@insertSql!43@insertSql!19@insertSql!51@
+ite|1|items!43@
+j|2|j!51@j!35@
+lis|11|list_acc!43@list_class_name!35@list_name!51@list_href!51@list_class_name!51@list_href!43@list_class_id!51@list_name!43@list_class_id!35@list_name!35@list_href!35@
+log|5|login_page!65@login!10@Login_URL!11@loginUrl!59@login_page!73@
+mai|1|main!82@
+mat|16|match_class!51@match_commets!19@match_name!35@match_people!43@match_scol!35@match_id!43@match_intro!35@match_name!51@match_scol!51@match_intro!51@match_class!35@match_name!43@match_id!51@match_respond_href!27@match_respond_href!19@match_id!35@
+ms|5|ms!43@ms!35@ms!19@ms!51@ms!27@
+mss|1|MSSQL!81@
+ope|1|opener!59@
+pas|1|password!11@
+pat|1|pattern!43@
+pos|1|postdata!59@
+r|2|r!27@r!19@
+res|5|respond_href!27@result!59@respond_num!19@respond_num!27@respond_href!19@
+s|1|s!27@
+sta|4|statuser!19@status_id!19@status_id!27@statuser!27@
+str|2|string!51@string!35@
+tem|3|temp!19@temp!43@temp!27@
+tru|2|true_statuser!19@true_statuser!27@
+typ|8|type_id!35@type!27@type_id!51@type!43@type!51@type_id!43@type!35@type!19@
+url|4|url!43@url_list!27@url!51@url!35@
+use|2|username!11@user_score!43@
+wro|2|wrong_people!27@wrong_people!19@
+zip|2|zipc!51@zipc!35@
+-- END TREE
+-- START TREE 2
+9
+__g|1|__GetConnect!11&82@
+__i|1|__init__!11&82@
+con|1|conn!12&83@
+db|1|db!13&83@
+exe|2|ExecNonQuery!11&82@ExecQuery!11&82@
+hos|1|host!13&83@
+log|2|login!8&74@login!8&66@
+pwd|1|pwd!13&83@
+use|1|user!13&83@
+-- END TREE

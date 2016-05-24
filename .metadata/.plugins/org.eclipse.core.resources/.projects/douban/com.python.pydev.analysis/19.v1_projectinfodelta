@@ -1,0 +1,13 @@
+INSTUPtaobao.tool
+E:\pythonworkspace\douban\src\taobao\tool.py
+INFOS:&&1|1|2|0&&3|3|2|1&&3|4|2|1&&3|5|2|1&&3|6|2|1&&3|7|2|1&&3|8|2|1&&3|9|2|1&&2|10|2|1
+removeImg=3
+taobao.tool=2
+removeExtraTag=8
+removeNoneLine=9
+removeAddr=4
+replaceLine=5
+replace=10
+replaceTD=6
+replaceBR=7
+Tool=1
