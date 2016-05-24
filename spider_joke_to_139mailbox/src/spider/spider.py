@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+﻿# -*- coding:utf-8 -*-
 
 import urllib2, json, sys, smtplib
 from email.mime.text import MIMEText
@@ -9,7 +9,7 @@ sys.setdefaultencoding('utf-8')  # 避免中午编码问题
 
 mail_host = "smtp.139.com"            # 设置服务器
 mail_user = "15074856331@139.com"     # 用户名
-mail_pass = "gaofeng0215"             # 密码(3254793137 qq授权码：itrdncwpuriwchai   unsrukjmhlnadbgb)
+mail_pass = "gaofeng0215"             # 密码()
 mailto_list = ['15116104927@139.com'] # 邮件接收者
 
 def send_mail(to_list, part1, sub, content):
